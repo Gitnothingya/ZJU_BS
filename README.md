@@ -1,4 +1,4 @@
-vue3 + springboot3 + mysql
+vue3 + springboot3 + mysql 实现的物联网后台管理系统
 
 使用mqtt模拟设备
 
