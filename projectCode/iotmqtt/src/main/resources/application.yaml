@@ -1,0 +1,19 @@
+server:
+    port: 1884
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3307/iotdb
+    username: root
+    password: root
+
+mqtt:
+  url: tcp://127.0.0.1:1883
+  Id: mqtt_16914b4f
+  Topic: iotapp
+  Qos: 1
+
+
+
+
